@@ -1,0 +1,1 @@
+# TODO: Dodaj walidację użytkownika
